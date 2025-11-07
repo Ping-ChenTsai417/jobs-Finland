@@ -73,3 +73,235 @@ a.btn{color:#fff;text-decoration:none;background:linear-gradient(135deg,var(--ac
 .loading{color:#7a8799;text-align:center}
 
 .page-footer{color:#556170;padding:18px 0 40px;font-size:14px}
+
+/* ============================================
+   RESPONSIVE DESIGN (RWD)
+   ============================================ */
+
+/* Tablet and below (max-width: 768px) */
+@media (max-width: 768px) {
+  .hero-inner {
+    padding: 32px 20px 24px;
+  }
+  
+  .hero h1 {
+    font-size: 24px;
+  }
+  
+  .stats {
+    gap: 16px;
+    flex-wrap: wrap;
+  }
+  
+  .stat {
+    min-width: 90px;
+  }
+  
+  .stat-num {
+    font-size: 24px;
+  }
+  
+  .stat-label {
+    font-size: 14px;
+  }
+  
+  /* Stack filters vertically on tablet */
+  .controls {
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  .controls input[type=search],
+  .controls select,
+  button.ghost {
+    width: 100%;
+    min-width: unset;
+  }
+  
+  .loaders {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 8px;
+  }
+  
+  .file-btn {
+    text-align: center;
+  }
+  
+  /* Make table scrollable horizontally */
+  .table-wrap {
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+  
+  table {
+    min-width: 600px;
+  }
+  
+  thead th,
+  tbody td {
+    padding: 10px 12px;
+    font-size: 14px;
+  }
+}
+
+/* Mobile (max-width: 480px) */
+@media (max-width: 480px) {
+  .container {
+    padding: 0 16px;
+  }
+  
+  .hero-inner {
+    padding: 24px 16px 20px;
+  }
+  
+  .brand {
+    width: 32px;
+    height: 32px;
+    font-size: 14px;
+  }
+  
+  .hero h1 {
+    font-size: 20px;
+    margin: 4px 0 6px;
+  }
+  
+  .subtitle {
+    font-size: 14px;
+  }
+  
+  .stats {
+    gap: 12px;
+    margin-top: 14px;
+  }
+  
+  .stat {
+    min-width: 70px;
+  }
+  
+  .stat-num {
+    font-size: 20px;
+  }
+  
+  .stat-label {
+    font-size: 12px;
+  }
+  
+  .toolbar {
+    padding: 12px 0;
+  }
+  
+  .controls input[type=search],
+  .controls select,
+  button.ghost {
+    padding: 10px;
+    font-size: 14px;
+  }
+  
+  .hint {
+    font-size: 12px;
+  }
+  
+  .file-btn {
+    font-size: 14px;
+    padding: 10px;
+  }
+  
+  /* Card-style layout for mobile */
+  table {
+    min-width: unset;
+    border: none;
+  }
+  
+  thead {
+    display: none;
+  }
+  
+  tbody,
+  tbody tr,
+  tbody td {
+    display: block;
+  }
+  
+  tbody tr {
+    margin-bottom: 16px;
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 12px;
+    background: #fff;
+  }
+  
+  tbody tr:hover {
+    background: #fbfeff;
+  }
+  
+  tbody td {
+    padding: 6px 0;
+    border: none;
+    text-align: left !important;
+  }
+  
+  tbody td:before {
+    content: attr(data-label);
+    font-weight: 600;
+    color: var(--muted);
+    display: inline-block;
+    margin-right: 8px;
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+  }
+  
+  tbody td:first-child:before {
+    content: "Company: ";
+  }
+  
+  tbody td:nth-child(2):before {
+    content: "Job: ";
+  }
+  
+  tbody td:nth-child(3):before {
+    content: "Industry: ";
+  }
+  
+  tbody td:nth-child(4):before {
+    content: "Category: ";
+  }
+  
+  tbody td:last-child:before {
+    content: "";
+  }
+  
+  tbody td:last-child {
+    padding-top: 10px;
+  }
+  
+  a.btn {
+    display: block;
+    text-align: center;
+    padding: 10px;
+  }
+  
+  .badge {
+    font-size: 11px;
+  }
+}
+
+/* Extra small devices (max-width: 360px) */
+@media (max-width: 360px) {
+  .hero h1 {
+    font-size: 18px;
+  }
+  
+  .stats {
+    gap: 8px;
+  }
+  
+  .stat {
+    min-width: 60px;
+  }
+  
+  .stat-num {
+    font-size: 18px;
+  }
+}
