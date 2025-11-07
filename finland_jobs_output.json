@@ -1,240 +1,288 @@
 {
-  "Nokia": [
-    {
-      "url": "https://jobs.nokia.com/en/sites/CX_1/job/26648/?location=Finland&locationId=300000000471640&locationLevel=country&mode=location",
-      "job_title": "Corporate Legal Trainee",
-      "category": "Corporate Services",
-      "industry": "Telecommunications"
-    },
-    {
-      "url": "https://jobs.nokia.com/en/sites/CX_1/job/25868/?location=Finland&locationId=300000000471640&locationLevel=country&mode=location",
-      "job_title": "Software Engineering Trainee",
-      "category": "Software Engineering",
-      "industry": "Telecommunications"
-    },
-    {
-      "url": "https://jobs.nokia.com/en/sites/CX_1/job/26089/?location=Finland&locationId=300000000471640&locationLevel=country&mode=location",
-      "job_title": "Head Risk & Resilience",
-      "category": "Corporate Services",
-      "industry": "Telecommunications"
-    },
-    {
-      "url": "https://jobs.nokia.com/en/sites/CX_1/job/26655/?location=Finland&locationId=300000000471640&locationLevel=country&mode=location",
-      "job_title": "System-on-Chip Trainee for AI",
-      "category": "AI/Machine Learning",
-      "industry": "Telecommunications"
-    },
-    {
-      "url": "https://jobs.nokia.com/en/sites/CX_1/job/26565/?location=Finland&locationId=300000000471640&locationLevel=country&mode=location",
-      "job_title": "Filing & Prosecution Specialist",
-      "category": "Patent Operations",
-      "industry": "Telecommunications"
-    },
-    {
-      "url": "https://jobs.nokia.com/en/sites/CX_1/job/26465/?location=Finland&locationId=300000000471640&locationLevel=country&mode=location",
-      "job_title": "Senior Patent Counsel/Manager, Transactions",
-      "category": "Legal",
-      "industry": "Telecommunications"
-    },
-    {
-      "url": "https://jobs.nokia.com/en/sites/CX_1/job/26305/?location=Finland&locationId=300000000471640&locationLevel=country&mode=location",
-      "job_title": "Vice President of Internal Audit",
-      "category": "Internal Audit",
-      "industry": "Telecommunications"
-    },
-    {
-      "url": "https://jobs.nokia.com/en/sites/CX_1/job/26086/?location=Finland&locationId=300000000471640&locationLevel=country&mode=location",
-      "job_title": "HW Engineer, EMC",
-      "category": "Hardware Engineering",
-      "industry": "Telecommunications"
-    },
-    {
-      "url": "https://jobs.nokia.com/en/sites/CX_1/job/26276/?location=Finland&locationId=300000000471640&locationLevel=country&mode=location",
-      "job_title": "Product Manager",
-      "category": "Product, Portfolio & Solution Management",
-      "industry": "Telecommunications"
-    },
-    {
-      "url": "https://jobs.nokia.com/en/sites/CX_1/job/26277/?location=Finland&locationId=300000000471640&locationLevel=country&mode=location",
-      "job_title": "Manager, Licensing",
-      "category": "Patent Operations",
-      "industry": "Telecommunications"
-    },
-    {
-      "url": "https://jobs.nokia.com/en/sites/CX_1/job/26076/?location=Finland&locationId=300000000471640&locationLevel=country&mode=location",
-      "job_title": "RF HW Engineer, TRX",
-      "category": "Hardware Engineering",
-      "industry": "Telecommunications"
-    },
-    {
-      "url": "https://jobs.nokia.com/en/sites/CX_1/job/26087/?location=Finland&locationId=300000000471640&locationLevel=country&mode=location",
-      "job_title": "RF HW Engineer, TRX",
-      "category": "Hardware Engineering",
-      "industry": "Telecommunications"
-    },
-    {
-      "url": "https://jobs.nokia.com/en/sites/CX_1/job/26109/?location=Finland&locationId=300000000471640&locationLevel=country&mode=location",
-      "job_title": "HW Engineer, Emech",
-      "category": "Hardware Engineering",
-      "industry": "Telecommunications"
-    },
-    {
-      "url": "https://jobs.nokia.com/en/sites/CX_1/job/24967/?location=Finland&locationId=300000000471640&locationLevel=country&mode=location",
-      "job_title": "Global Workplace Services Manager",
-      "category": "Corporate Services",
-      "industry": "Telecommunications"
-    },
-    {
-      "url": "https://jobs.nokia.com/en/sites/CX_1/job/25142/?location=Finland&locationId=300000000471640&locationLevel=country&mode=location",
-      "job_title": "Principal/Senior Patent Counsel",
-      "category": "Patent Operations",
-      "industry": "Telecommunications"
-    },
-    {
-      "url": "https://jobs.nokia.com/en/sites/CX_1/job/24668/?location=Finland&locationId=300000000471640&locationLevel=country&mode=location",
-      "job_title": "Audio Patent Engineer",
-      "category": "Patent Operations",
-      "industry": "Telecommunications"
-    },
-    {
-      "url": "https://jobs.nokia.com/en/sites/CX_1/job/23710/?location=Finland&locationId=300000000471640&locationLevel=country&mode=location",
-      "job_title": "Director, Streamlined Prosecution",
-      "category": "Patent Operations",
-      "industry": "Telecommunications"
-    },
-    {
-      "url": "https://jobs.nokia.com/en/sites/CX_1/job/23713/?location=Finland&locationId=300000000471640&locationLevel=country&mode=location",
-      "job_title": "Senior Patent Counsel/Agent",
-      "category": "Legal",
-      "industry": "Telecommunications"
-    },
-    {
-      "url": "https://jobs.nokia.com/en/sites/CX_1/job/22676/?location=Finland&locationId=300000000471640&locationLevel=country&mode=location",
-      "job_title": "Commercial Manager",
-      "category": "Commercial Management",
-      "industry": "Telecommunications"
-    },
-    {
-      "url": "https://jobs.nokia.com/en/sites/CX_1/job/21650/?location=Finland&locationId=300000000471640&locationLevel=country&mode=location",
-      "job_title": "Senior Patent Counsel/Agent",
-      "category": "Patent Operations",
-      "industry": "Telecommunications"
-    },
-    {
-      "url": "https://jobs.nokia.com/en/sites/CX_1/job/20395/?location=Finland&locationId=300000000471640&locationLevel=country&mode=location",
-      "job_title": "Senior Patent Manager / Senior Patent Counsel",
-      "category": "Patent Operations",
-      "industry": "Telecommunications"
-    },
-    {
-      "url": "https://jobs.nokia.com/en/sites/CX_1/job/16979/?location=Finland&locationId=300000000471640&locationLevel=country&mode=location",
-      "job_title": "Senior Patent Specialist/Counsel",
-      "category": "Patent Operations",
-      "industry": "Telecommunications"
-    },
-    {
-      "url": "https://jobs.nokia.com/en/sites/CX_1/job/16465/?location=Finland&locationId=300000000471640&locationLevel=country&mode=location",
-      "job_title": "Senior Patent Counsel, Multimedia SEP and TA",
-      "category": "Patent Operations",
-      "industry": "Telecommunications"
-    }
-  ],
   "ABB": [
     {
       "url": "https://careers.abb/global/en/job/JR00015338/Global-Trade-Compliance-Manager",
       "job_title": "Global Trade Compliance Manager",
-      "category": "Compliance",
-      "industry": "Industrial Automation & Technology"
+      "category": "Legal & Compliance",
+      "industry": "Technology"
+    }
+  ],
+  "Rovio": [
+    {
+      "url": "https://www.rovio.com/open-positions/",
+      "job_title": "Public Relations Lead",
+      "category": "Public Relations",
+      "industry": "Gaming"
     },
     {
-      "url": "https://careers.abb/global/en/job/JR00012662/Senior-Design-Engineer",
-      "job_title": "Senior Design Engineer",
+      "url": "https://www.rovio.com/open-positions/public-relations-lead-af9f0df0-8594-4991-a75c-07207ca454c8/",
+      "job_title": "Public Relations Lead",
+      "category": "Public Relations",
+      "industry": "Gaming"
+    },
+    {
+      "url": "https://www.rovio.com/open-positions/senior-sound-designer-c02be5d7-9288-482e-aa4b-8a43e752338c/",
+      "job_title": "Senior Sound Designer",
+      "category": "Audio Design",
+      "industry": "Gaming"
+    },
+    {
+      "url": "https://www.rovio.com/open-positions/principal-game-developer-angry-birds-dream-blast-dee07b64-dc14-43db-9fa0-12a1d79ad094/",
+      "job_title": "Principal Game Developer, Angry Birds Dream Blast",
       "category": "Software Engineering",
-      "industry": "Industrial Automation & Technology"
+      "industry": "Gaming"
     },
     {
-      "url": "https://careers.abb/global/en/job/96775699/Project-Manager",
-      "job_title": "Project Manager",
+      "url": "https://www.rovio.com/open-positions/senior-technical-manager-d8e77e00-918c-45f2-a7c9-1658b52b3ed6/",
+      "job_title": "Senior Technical Manager",
+      "category": "Technical Management",
+      "industry": "Gaming"
+    },
+    {
+      "url": "https://www.rovio.com/open-positions/player-experience-director-300ddefd-ab05-40cb-894b-caf963213853/",
+      "job_title": "Player Experience Director",
+      "category": "Player Experience",
+      "industry": "Gaming"
+    },
+    {
+      "url": "https://www.rovio.com/open-positions/portfolio-product-performance-lead-82c3daac-d2eb-4ee3-9f63-ba041330ed33/",
+      "job_title": "Portfolio & Product Performance Lead",
+      "category": "Product Management",
+      "industry": "Gaming"
+    },
+    {
+      "url": "https://www.rovio.com/open-positions/internal-communications-and-events-lead-739073f1-f963-4194-90a5-c76689373045/",
+      "job_title": "Internal Communications and Events Lead",
+      "category": "Communications",
+      "industry": "Gaming"
+    },
+    {
+      "url": "https://www.rovio.com/open-positions/lead-marketing-creative-specialist-7ca2a976-8ac5-4d45-8c95-f969236b2e2a/",
+      "job_title": "Lead Marketing Creative Specialist",
+      "category": "Marketing",
+      "industry": "Gaming"
+    },
+    {
+      "url": "https://www.rovio.com/open-positions/lead-data-analyst-portfolio-product-excellence-46d2d800-e422-40b8-8c7e-ac9ddbaa68af/",
+      "job_title": "Lead Data Analyst, Portfolio & Product Excellence",
+      "category": "Data Science",
+      "industry": "Gaming"
+    },
+    {
+      "url": "https://www.rovio.com/open-positions/principal-ai-engineer-0743faa1-4d50-48a7-b6f3-8041c7bc3fa2/",
+      "job_title": "Principal AI Engineer",
+      "category": "AI/Machine Learning Engineering",
+      "industry": "Gaming"
+    },
+    {
+      "url": "https://www.rovio.com/open-positions/director-ai-lab-8748cf73-21f9-49c0-b30e-4f18546bd06e/",
+      "job_title": "Director, AI Lab",
+      "category": "Artificial Intelligence",
+      "industry": "Gaming"
+    },
+    {
+      "url": "https://www.rovio.com/open-positions/principal-data-analyst-team-manager-6685abc0-1dfa-4dac-8552-b65ffc24be6a/",
+      "job_title": "Principal Data Analyst, Team Manager",
+      "category": "Data Science",
+      "industry": "Gaming"
+    }
+  ],
+  "Trimble": [
+    {
+      "url": "https://trimblecareers.trimble.com/careers/job/171836738929?domain=trimble.com&microsite=trimble.com",
+      "job_title": "Technical Customer Support Professional, electricity and energy distribution",
+      "category": "Technical Support",
+      "industry": "Utilities"
+    },
+    {
+      "url": "https://trimblecareers.trimble.com/careers/job/171824535276?domain=trimble.com&microsite=trimble.com",
+      "job_title": "Regional Sales Representative, Northern Europe",
+      "category": "Sales",
+      "industry": "Technology"
+    },
+    {
+      "url": "https://trimblecareers.trimble.com/careers/job/171825584593?domain=trimble.com&microsite=trimble.com",
+      "job_title": "Tekla BIM Specialist",
+      "category": "Technical Customer Support",
+      "industry": "Technology"
+    },
+    {
+      "url": "https://trimblecareers.trimble.com/careers/job/171837219278?domain=trimble.com&microsite=trimble.com",
+      "job_title": "Cloud Architect",
+      "category": "Software Engineering",
+      "industry": "Industrial Technology"
+    },
+    {
+      "url": "https://trimblecareers.trimble.com/careers/job/171837219281?domain=trimble.com&microsite=trimble.com",
+      "job_title": "Full Stack Software Developer",
+      "category": "Software Engineering",
+      "industry": "Technology"
+    },
+    {
+      "url": "https://trimblecareers.trimble.com/careers/job/171837220989?domain=trimble.com&microsite=trimble.com",
+      "job_title": "Global License Compliance Specialist (Fixed-Term)",
+      "category": "Legal & Compliance",
+      "industry": "Technology"
+    },
+    {
+      "url": "https://trimblecareers.trimble.com/careers/job/171837323573?domain=trimble.com&microsite=trimble.com",
+      "job_title": "IS Help Desk Intern",
+      "category": "IT Support",
+      "industry": "Technology"
+    },
+    {
+      "url": "https://trimblecareers.trimble.com/careers/job/171837300536?domain=trimble.com&microsite=trimble.com",
+      "job_title": "Software Engineer, Agentic AI Platform",
+      "category": "Software Engineering",
+      "industry": "Technology"
+    },
+    {
+      "url": "https://trimblecareers.trimble.com/careers/job/171837338076?domain=trimble.com&microsite=trimble.com",
+      "job_title": "Technical Customer Support Professional",
+      "category": "Technical Support",
+      "industry": "Technology"
+    },
+    {
+      "url": "https://trimblecareers.trimble.com/careers/job/171837124879?domain=trimble.com&microsite=trimble.com",
+      "job_title": "Cloud Systems Support Specialist",
+      "category": "Technical Support",
+      "industry": "Industrial Technology"
+    },
+    {
+      "url": "https://trimblecareers.trimble.com/careers/job/171836738889?domain=trimble.com&microsite=trimble.com",
+      "job_title": "Technical Customer Support Specialist",
+      "category": "Technical Support",
+      "industry": "Technology"
+    },
+    {
+      "url": "https://trimblecareers.trimble.com/careers/job/171836490571?domain=trimble.com&microsite=trimble.com",
+      "job_title": "Technical Customer Support Specialist – BIM-Software Tekla Structures (m/w/d)",
+      "category": "Technical Support",
+      "industry": "Technology"
+    },
+    {
+      "url": "https://trimblecareers.trimble.com/careers/job/171837320991?domain=trimble.com&microsite=trimble.com",
+      "job_title": "Technical Specialist",
+      "category": "Technical Support",
+      "industry": "Industrial Technology"
+    },
+    {
+      "url": "https://trimblecareers.trimble.com/careers/job/171836490570?domain=trimble.com&microsite=trimble.com",
+      "job_title": "Technical Customer Support & Training Engineer",
+      "category": "Technical Customer Support",
+      "industry": "Technology"
+    },
+    {
+      "url": "https://trimblecareers.trimble.com/careers/job/171837227968?domain=trimble.com&microsite=trimble.com",
+      "job_title": "Application Customer Support Specialist",
+      "category": "Customer Support",
+      "industry": "Technology"
+    }
+  ],
+  "PwC": [
+    {
+      "url": "https://www.pwc.fi/en/about-us/careers/pwc-as-an-employer.html",
+      "job_title": "PwC as an employer (General Career Information)",
+      "category": "Professional Services",
+      "industry": "Consulting"
+    },
+    {
+      "url": "https://www.pwc.fi/en/about-us/careers/recent-graduate-or-student.html",
+      "job_title": "Trainee",
+      "category": "Professional Services",
+      "industry": "Consulting"
+    },
+    {
+      "url": "https://www.pwc.fi/en/about-us/careers/pwc-finlands-advisory-trainee.html",
+      "job_title": "PwC Finland's Advisory Trainee",
+      "category": "Advisory",
+      "industry": "Professional Services"
+    },
+    {
+      "url": "https://www.pwc.fi/en/about-us/careers/foundation-for-the-future.html",
+      "job_title": "Foundation for the Future (Junior Management Consulting Talents)",
+      "category": "Management Consulting",
+      "industry": "Professional Services"
+    },
+    {
+      "url": "https://www.pwc.fi/en/about-us/careers/career-stories/jussi-s-career-story---leading-sustainable-change-at-pwc-finland.html",
+      "job_title": "Leader of Sustainability Platform and Advisory Team",
+      "category": "Consulting, Sustainability",
+      "industry": "Professional Services"
+    },
+    {
+      "url": "https://www.pwc.fi/en/about-us/careers/career-stories/xinyis-career-story-following-your-passion-as-a-data-scientist.html",
+      "job_title": "Senior Data Scientist and Operations Consultant",
+      "category": "Data Science",
+      "industry": "Consulting"
+    },
+    {
+      "url": "https://www.pwc.fi/en/about-us/careers/career-stories/anniinas-career-story-problem-solving-by-coding.html",
+      "job_title": "Tech Trainee (Tax & Legal Services)",
+      "category": "Software Engineering",
+      "industry": "Professional Services"
+    },
+    {
+      "url": "https://www.pwc.fi/en/about-us/careers/career-stories/How-did-i-become-a-tax-consultant.html",
+      "job_title": "Tax Consultant",
+      "category": "Finance",
+      "industry": "Professional Services"
+    }
+  ],
+  "Fortum": [
+    {
+      "url": "https://jobs.fortum.com/Fortum/job/Espoo-Procurement-Specialist/1330034555/",
+      "job_title": "Procurement Specialist",
+      "category": "Procurement & Logistics",
+      "industry": "Energy"
+    },
+    {
+      "url": "https://jobs.fortum.com/Fortum/job/Sth-Solna-Scrum-Master/1329587355/",
+      "job_title": "Scrum Master",
       "category": "Project Management",
-      "industry": "Industrial Automation & Technology"
+      "industry": "Energy"
     },
     {
-      "url": "https://careers.abb/global/en/job/JR00014958/Customer-Support-Manager",
-      "job_title": "Customer Support Manager",
-      "category": "Customer Service",
-      "industry": "Industrial Automation & Technology"
+      "url": "https://jobs.fortum.com/Fortum/job/Espoo-Senior-Manager%2C-Finance-and-Business-Control/1329571455/",
+      "job_title": "Senior Manager, Finance and Business Control",
+      "category": "Finance",
+      "industry": "Energy"
     },
     {
-      "url": "https://careers.abb/global/en/job/JR00014733/Solution-Development-Specialist",
-      "job_title": "Solution Development Specialist",
-      "category": "IT Development",
-      "industry": "Industrial Automation & Technology"
+      "url": "https://jobs.fortum.com/Fortum/job/Espoo-Trainee%2C-Legal/1329439555/",
+      "job_title": "Trainee, Legal",
+      "category": "Legal",
+      "industry": "Energy"
     },
     {
-      "url": "https://careers.abb/global/en/job/JR00008632/Development-Engineer",
-      "job_title": "Development Engineer",
-      "category": "Manufacturing Engineering",
-      "industry": "Industrial Automation & Technology"
+      "url": "https://jobs.fortum.com/Fortum/job/Espoo-AI-&-Digital-Portfolio-Lead/1328926655/",
+      "job_title": "AI & Digital Portfolio Lead",
+      "category": "Product Management",
+      "industry": "Energy"
     },
     {
-      "url": "https://careers.abb/global/en/job/JR00013034/Software-Engineer",
-      "job_title": "Software Engineer",
-      "category": "Software Engineering",
-      "industry": "Industrial Automation & Technology"
+      "url": "https://jobs.fortum.com/Fortum/job/Muhos-Kunnossapitoasiantuntija-%28materiaalilogistiikka%2C-kemikaalit%29/1328894255/",
+      "job_title": "Kunnossapitoasiantuntija (materiaalilogistiikka, kemikaalit)",
+      "category": "Operations and Maintenance",
+      "industry": "Energy"
     },
     {
-      "url": "https://careers.abb/global/en/job/87613285/Product-Compliance-Engineer-Cyber-security",
-      "job_title": "Product Compliance Engineer - Cyber security",
-      "category": "Cybersecurity",
-      "industry": "Industrial Automation & Technology"
+      "url": "https://jobs.fortum.com/Fortum/job/Muhos-Kunnossapidon-Projektip%C3%A4%C3%A4llikk%C3%B6%2C-esihenkil%C3%B6/1328892955/",
+      "job_title": "Kunnossapidon Projektipäällikkö, esihenkilö",
+      "category": "Operations and Maintenance",
+      "industry": "Energy"
     },
     {
-      "url": "https://careers.abb/global/en/job/JR00009495/Principal-Engineer-Power-Electronics",
-      "job_title": "Principal Engineer, Power Electronics",
-      "category": "Electrical Engineering",
-      "industry": "Industrial Automation & Technology"
+      "url": "https://jobs.fortum.com/Fortum/job/Muhos-Relesuojaus-ja-koestusasiantuntija-vesivoimahankkeisiin/1327484155/",
+      "job_title": "Relesuojaus- ja koestusasiantuntija vesivoimahankkeisiin",
+      "category": "Engineering",
+      "industry": "Energy"
     },
     {
-      "url": "https://careers.abb/global/en/job/JR00008921/Senior-FPGA-Designer",
-      "job_title": "Senior FPGA Designer",
-      "category": "Hardware Engineering",
-      "industry": "Industrial Automation & Technology"
-    },
-    {
-      "url": "https://careers.abb/global/en/job/JR00006873/R-D-Engineer-Mechanical-Design-Synchronous-machines",
-      "job_title": "R&D Engineer, Mechanical Design, Synchronous machines",
-      "category": "Research & Development",
-      "industry": "Industrial Automation & Technology"
-    },
-    {
-      "url": "https://careers.abb/global/en/job/JR00011969/R-D-Engineer",
-      "job_title": "R&D Engineer",
-      "category": "Research & Development",
-      "industry": "Industrial Automation & Technology"
-    },
-    {
-      "url": "https://careers.abb/global/en/job/JR00009673/Senior-Software-Developer-Embedded-drive-firmware",
-      "job_title": "Senior Software Developer, Embedded (drive firmware)",
-      "category": "Software Engineering",
-      "industry": "Industrial Automation & Technology"
-    },
-    {
-      "url": "https://careers.abb/global/en/job/JR00013831/Roottorinvalmistaja",
-      "job_title": "Roottorinvalmistaja",
-      "category": "Manufacturing",
-      "industry": "Industrial Automation & Technology"
-    },
-    {
-      "url": "https://careers.abb/global/en/job/JR00014981/Kojeasentaja",
-      "job_title": "Kojeasentaja",
-      "category": "Manufacturing",
-      "industry": "Industrial Automation & Technology"
-    },
-    {
-      "url": "https://careers.abb/global/en/job/JR00015496/Opinnäytetyömahdollisuus-Dokumenttien-hallinnan-kehittäminen;-automaatio-ja-tekoälyratkaisut",
-      "job_title": "Opinnäytetyömahdollisuus: Dokumenttien hallinnan kehittäminen; automaatio ja tekoälyratkaisut",
-      "category": "Software Engineering",
-      "industry": "Industrial Automation & Technology"
+      "url": "https://jobs.fortum.com/Fortum/job/Sth-Solna-Data-Engineer/1326927455/",
+      "job_title": "Data Engineer",
+      "category": "Data Science",
+      "industry": "Energy"
     }
   ]
 }
